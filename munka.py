@@ -16,4 +16,11 @@ y = 19
 
 print(x-y)
 
+# Osztás
+# ------------------------
+egyik = 25
+masik = 5
+
+print(egyik/masik)
+
 # Itt a vége
