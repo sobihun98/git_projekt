@@ -11,10 +11,10 @@ print(a+b+c)
 
 # Kivonás
 # ------------------------
-x = 35
-y = 19
-z = 37
+x = 15
+y = 59
+z = 370
 
-print(x-y)
+print(z-y-x)
 
 # Itt a vége
