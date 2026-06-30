@@ -17,4 +17,18 @@ z = 370
 
 print(z-y-x-x)
 
+# Szorzás
+# ------------------------
+kicsi = 3
+nagy = 23
+
+print(kicsi*nagy)
+
+# Osztás
+# ------------------------
+egyik = 25
+masik = 5
+
+print(egyik/masik)
+
 # Itt a vége
