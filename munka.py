@@ -15,6 +15,6 @@ x = 15
 y = 59
 z = 370
 
-print(z-y-x)
+print(z-y-x-x)
 
 # Itt a vége
