@@ -23,8 +23,11 @@ nagy = 23
 
 print(kicsi*nagy)
 
+# Osztás
+# ------------------------
+egyik = 25
+masik = 5
 
-
-
+print(egyik/masik)
 
 # Itt a vége
