@@ -16,4 +16,15 @@ y = 19
 
 print(x-y)
 
+# Szorzás
+# ------------------------
+kicsi = 3
+nagy = 23
+
+print(kicsi*nagy)
+
+
+
+
+
 # Itt a vége
