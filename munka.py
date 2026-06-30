@@ -12,9 +12,24 @@ print(a+b+c+d)
 
 # Kivonás
 # ------------------------
-x = 35
-y = 19
+x = 15
+y = 59
+z = 370
 
-print(x-y)
+print(z-y-x-x)
+
+# Szorzás
+# ------------------------
+kicsi = 3
+nagy = 23
+
+print(kicsi*nagy)
+
+# Osztás
+# ------------------------
+egyik = 25
+masik = 5
+
+print(egyik/masik)
 
 # Itt a vége
