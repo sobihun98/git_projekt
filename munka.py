@@ -35,3 +35,4 @@ masik = 5
 print(egyik/masik)
 
 # Itt a vége
+# Saját gépen frissítve
