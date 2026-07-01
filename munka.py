@@ -6,9 +6,11 @@
 a = 10
 b = 15
 c = 12
-d = 34
+d = 36
 
 print(a+b+c+d)
+
+# a githubon szerkesztettem
 
 # Kivonás
 # ------------------------
