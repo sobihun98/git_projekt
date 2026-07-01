@@ -16,8 +16,15 @@ webtanar: http://webtanar.hu
 
 Ebben a sorban beillesztett `<b>kódrészlet<b>` van.
 
+### Python kód
 ```python
 a = 5
 b = 7
 print(a+b)
+```
+
+### Javascript kód
+```javascript
+var p = 23;
+alert(hahaha");
 ```
